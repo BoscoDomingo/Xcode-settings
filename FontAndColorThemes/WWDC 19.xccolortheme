@@ -30,8 +30,8 @@
 	<string>0.317647 0.356862 0.439215 1</string>
 	<key>DVTDebuggerInstructionPointerColor</key>
 	<string>0.12 0.31 0.34 1</string>
-	<key>DVTLineSpacing</key>
-	<real>1.2000000476837158</real>
+	<key>DVTFontAndColorVersion</key>
+	<integer>1</integer>
 	<key>DVTMarkupTextBackgroundColor</key>
 	<string>0.18856 0.195 0.22444 1</string>
 	<key>DVTMarkupTextBorderColor</key>
@@ -106,6 +106,10 @@
 		<string>0.631373 0.690196 0.701961 1</string>
 		<key>xcode.syntax.comment.doc.keyword</key>
 		<string>0.631373 0.690196 0.701961 1</string>
+		<key>xcode.syntax.declaration.other</key>
+		<string>0.254902 0.631373 0.752941 1</string>
+		<key>xcode.syntax.declaration.type</key>
+		<string>0.362946 0.846428 0.998966 1</string>
 		<key>xcode.syntax.identifier.class</key>
 		<string>0.741176 0.941176 0.329412 1</string>
 		<key>xcode.syntax.identifier.class.system</key>
@@ -132,6 +136,10 @@
 		<string>0.741176 0.941176 0.329412 1</string>
 		<key>xcode.syntax.keyword</key>
 		<string>0 0.721569 0.827451 1</string>
+		<key>xcode.syntax.mark</key>
+		<string>0.572549 0.631373 0.694118 1</string>
+		<key>xcode.syntax.markup.code</key>
+		<string>0.665 0.052 0.569 1</string>
 		<key>xcode.syntax.number</key>
 		<string>0.996078 0.85098 0.360784 1</string>
 		<key>xcode.syntax.plain</key>
@@ -155,6 +163,10 @@
 		<string>SFMono-Medium - 12.0</string>
 		<key>xcode.syntax.comment.doc.keyword</key>
 		<string>SFMono-Bold - 12.0</string>
+		<key>xcode.syntax.declaration.other</key>
+		<string>SFMono-Medium - 12.0</string>
+		<key>xcode.syntax.declaration.type</key>
+		<string>SFMono-Medium - 12.0</string>
 		<key>xcode.syntax.identifier.class</key>
 		<string>SFMono-Medium - 12.0</string>
 		<key>xcode.syntax.identifier.class.system</key>
@@ -180,6 +192,10 @@
 		<key>xcode.syntax.identifier.variable.system</key>
 		<string>SFMono-Medium - 12.0</string>
 		<key>xcode.syntax.keyword</key>
+		<string>SFMono-Medium - 12.0</string>
+		<key>xcode.syntax.mark</key>
+		<string>SFMono-Bold - 12.0</string>
+		<key>xcode.syntax.markup.code</key>
 		<string>SFMono-Medium - 12.0</string>
 		<key>xcode.syntax.number</key>
 		<string>SFMono-Medium - 12.0</string>

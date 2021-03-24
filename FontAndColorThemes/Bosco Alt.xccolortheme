@@ -103,9 +103,9 @@
 		<key>xcode.syntax.character</key>
 		<string>0.633256 0.357855 0 1</string>
 		<key>xcode.syntax.comment</key>
-		<string>0.305499 1 0.669357 1</string>
+		<string>0.58302 0.58302 0.58302 1</string>
 		<key>xcode.syntax.comment.doc</key>
-		<string>0.0540128 0.407661 0.188766 1</string>
+		<string>0.0501872 0.75692 0.304149 1</string>
 		<key>xcode.syntax.comment.doc.keyword</key>
 		<string>0.331857 1 0 1</string>
 		<key>xcode.syntax.declaration.other</key>
@@ -149,7 +149,7 @@
 		<key>xcode.syntax.preprocessor</key>
 		<string>0.780392 0.478431 0.294118 1</string>
 		<key>xcode.syntax.string</key>
-		<string>0.0574931 0.61427 0.260981 1</string>
+		<string>0.305499 1 0.669357 1</string>
 		<key>xcode.syntax.url</key>
 		<string>1 0.423421 0 1</string>
 	</dict>
@@ -162,9 +162,9 @@
 		<key>xcode.syntax.comment</key>
 		<string>SFMonoLigatures-RegularItalic - 12.0</string>
 		<key>xcode.syntax.comment.doc</key>
-		<string>HelveticaNeue-Medium - 12.0</string>
+		<string>HelveticaNeue - 12.0</string>
 		<key>xcode.syntax.comment.doc.keyword</key>
-		<string>SFMonoLigatures-Bold - 12.0</string>
+		<string>SFPro-Bold - 12.0</string>
 		<key>xcode.syntax.declaration.other</key>
 		<string>SFMonoLigatures-Medium - 12.0</string>
 		<key>xcode.syntax.declaration.type</key>
@@ -196,7 +196,7 @@
 		<key>xcode.syntax.keyword</key>
 		<string>SFMonoLigatures-Regular - 12.0</string>
 		<key>xcode.syntax.mark</key>
-		<string>SFMonoLigatures-Bold - 12.0</string>
+		<string>SFPro-Bold - 12.0</string>
 		<key>xcode.syntax.markup.code</key>
 		<string>SFMonoLigatures-Medium - 12.0</string>
 		<key>xcode.syntax.number</key>
