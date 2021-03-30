@@ -160,7 +160,7 @@
 		<key>xcode.syntax.character</key>
 		<string>SFMonoLigatures-Regular - 12.0</string>
 		<key>xcode.syntax.comment</key>
-		<string>SFMonoLigatures-RegularItalic - 12.0</string>
+		<string>SFMono-RegularItalic - 12.0</string>
 		<key>xcode.syntax.comment.doc</key>
 		<string>HelveticaNeue - 12.0</string>
 		<key>xcode.syntax.comment.doc.keyword</key>
