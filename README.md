@@ -1,6 +1,6 @@
 # Xcode Settings
 
-Themes' and Keybindings' location: `Users/NAME/Library/Developer/Xcode/UserData/`
+Themes' and Keybindings' location: `~/Library/Developer/Xcode/UserData/`
 
 Install [Swimat](https://github.com/Jintin/Swimat), [SwiftLint](https://github.com/realm/SwiftLint), Comment Wrapper, Text Toolset
 
