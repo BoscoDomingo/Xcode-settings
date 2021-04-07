@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>view</string>
+	<key>IDECodeSnippetCompletionScopes</key>
+	<array>
+		<string>TopLevel</string>
+	</array>
+	<key>IDECodeSnippetContents</key>
+	<string>struct &lt;#ViewName#&gt;&lt;ViewModel: &lt;#ViewModel#&gt;&gt;: View {
+    @ObservedObject var viewModel: ViewModel
+
+    var body: some View {
+        &lt;#code#&gt;
+    }
+}</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>A6030EE4-C84B-4339-ABDC-ADE5467FEA95</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.Swift</string>
+	<key>IDECodeSnippetSummary</key>
+	<string>Boilerplate for a SwiftUI View with a ViewModel</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>SwiftUI View + ViewModel</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+	<key>IDECodeSnippetVersion</key>
+	<integer>2</integer>
+</dict>
+</plist>
