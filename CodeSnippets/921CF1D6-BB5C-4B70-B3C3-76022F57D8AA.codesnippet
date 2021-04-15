@@ -3,21 +3,23 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>@testable import</string>
+	<string>private func</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
-		<string>TopLevel</string>
+		<string>ClassImplementation</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>@testable import Tymit</string>
+	<string>private func &lt;#name#&gt;(&lt;#parameters#&gt;) -&gt; &lt;#return type#&gt; {
+        &lt;#function body#&gt;
+    }</string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>13F43393-16A2-4965-88F3-F68DF3DCDC9C</string>
+	<string>921CF1D6-BB5C-4B70-B3C3-76022F57D8AA</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Swift</string>
 	<key>IDECodeSnippetSummary</key>
-	<string>Import</string>
+	<string></string>
 	<key>IDECodeSnippetTitle</key>
-	<string>Testable import Tymit</string>
+	<string>Private Function</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>
