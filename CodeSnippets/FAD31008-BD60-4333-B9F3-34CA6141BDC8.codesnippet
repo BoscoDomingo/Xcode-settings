@@ -6,15 +6,17 @@
 	<string>preview</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
-		<string>TopLevel</string>
 		<string>ClassImplementation</string>
+		<string>TopLevel</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>struct &lt;#ViewName#&gt;_Preview: PreviewProvider {
+	<string>#if DEBUG
+struct &lt;#ViewName#&gt;_Preview: PreviewProvider {
     static var previews: some View {
         &lt;#ViewName#&gt;()
     }
-}</string>
+}
+#endif</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>FAD31008-BD60-4333-B9F3-34CA6141BDC8</string>
 	<key>IDECodeSnippetLanguage</key>

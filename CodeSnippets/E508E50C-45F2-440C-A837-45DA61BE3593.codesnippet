@@ -10,7 +10,7 @@
 	</array>
 	<key>IDECodeSnippetContents</key>
 	<string>extension &lt;#Name#&gt; {
-    
+    &lt;#code#&gt;
 }</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>E508E50C-45F2-440C-A837-45DA61BE3593</string>
